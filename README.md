@@ -1,1 +1,3 @@
 # devops01
+
+fri
